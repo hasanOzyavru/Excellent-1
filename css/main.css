@@ -1,3 +1,9 @@
 @import "header.css";
 @import "body.css";
 @import "footer.css";
+
+.paragraph {
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: italic;
+}
